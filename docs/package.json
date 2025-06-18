@@ -12,7 +12,7 @@
     "start": "node index.js",                         
     "dev": "nodemon index.js" 
   },
-  "author": "Manuel Lopez",
+  "author": "Manuel Lopez manuel.eduardo.lopeza@gmail.com 319331543",
   "license": "ISC",
   "description": ""
 }
